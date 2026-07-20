@@ -1,0 +1,28 @@
+Batch Runner
+
+*****************************************************************************
+
+cmd
+pip install openpyxl
+pip install pywin32
+
+*****************************************************************************
+VS
+●　颜色主题
+  Rosely Light
+
+●　增加缩进量
+Ctrl + ,
+搜索 tree indent
+找到 控制树缩进(以像素为单位)
+将默认值改为更大的数字（比如 20-30）
+
+*****************************************************************************
+
+待安装
+pip install easyocr
+pip install xlwings
+pip install chardet
+pip install rapidocr_onnxruntime pymupdf pillow
+pip install pymupdf rapidocr_onnxruntime pillow openpyxl
+*****************************************************************************

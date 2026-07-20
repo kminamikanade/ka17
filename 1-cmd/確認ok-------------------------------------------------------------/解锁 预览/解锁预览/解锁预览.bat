@@ -1,0 +1,3 @@
+python ok.py
+
+pause
