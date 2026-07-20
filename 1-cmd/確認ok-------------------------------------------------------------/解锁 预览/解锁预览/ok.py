@@ -7,7 +7,10 @@ import os
 # =========================
 
 folders = [
-    r"C:\c_wk\10_会社\PDF-相关\Test\PDF注通",
+    r"C:",
+ #   r"",
+  #    r"",
+    r"C:\Users\qinza\Downloads",
     r"C:\c_wk\10_会社\PDF-相关"
 ]
 

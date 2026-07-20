@@ -25,4 +25,5 @@ pip install xlwings
 pip install chardet
 pip install rapidocr_onnxruntime pymupdf pillow
 pip install pymupdf rapidocr_onnxruntime pillow openpyxl
+pip install pypdf
 *****************************************************************************
