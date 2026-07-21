@@ -1,0 +1,98 @@
+
+### 方法1：Shift + 右键
+
+在文件夹空白处按住 **Shift** 不放，再点右键。
+
+有时候会出现：
+
+* 在终端中打开（Open in Terminal）
+* 在 PowerShell 窗口中打开
+
+---
+
+### 方法2：地址栏直接打开
+
+进入目标文件夹后：
+
+1. 点击资源管理器上面的地址栏
+2. 输入：
+
+powershell
+powershell
+
+
+3. 按 Enter
+
+PowerShell 就会直接在当前文件夹打开。
+
+---
+
+### 方法3：Windows Terminal
+
+在文件夹里：
+
+1. 点击地址栏
+2. 输入：
+
+cmd
+wt
+
+
+3. 回车
+
+会打开 Windows Terminal。
+
+默认一般就是 PowerShell。
+
+---
+
+### 方法4：开始菜单打开
+
+按：
+
+text
+Win + X
+
+
+选择：
+
+text
+终端
+
+
+或者
+
+text
+Windows PowerShell
+
+
+然后执行：
+
+powershell
+cd "你的文件夹路径"
+
+
+例如：
+
+powershell
+cd "C:\c_wk\10_会社\PDF-相关\Test"
+
+
+---
+
+### 方法5：Windows 11 右键菜单
+
+Windows 11 有时候把 PowerShell 藏起来了。
+
+右键后先点：
+
+text
+显示更多选项
+
+
+再看看有没有：
+
+text
+在终端中打开
+
+
